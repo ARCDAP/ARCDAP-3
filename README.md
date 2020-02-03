@@ -3,6 +3,8 @@ Code repository for ARCDAP-3
 
 Jupyter Notebooks for hands-on with ESMValTool.
 
+Draft copies, NOT FINAL for the workshop
+
 #### ESMValTool Worksheet Modules:
 
 **1:** Set up and test recipe <br>
